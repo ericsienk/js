@@ -9,6 +9,7 @@ for (let i = 0; i < 10; i++) {
 let i = 0;
 while (i < 10) {
   console.log(`while loop ${i}`);
+  i++;
 }
 
 // forEach prototype on an array 
